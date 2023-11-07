@@ -1,20 +1,8 @@
 <h1 align="center"> A to Z Resources for Students </h1>
 
-
-If you think this repository helped you in any in finding new opportunities, tag me on Twitter at [@HQdeepak](https://twitter.com/HQdeepak) and help it reach more people in the community. 
-
-
-[Buy Me a Coffee](https://www.buymeacoffee.com/dipakkr)
-
----
-
 Are you a college student or a working professional looking for resources to learn a new coding language? Are you looking to meet new people in your community or searching for global conferences, hackathons and competitions to attend? If so, you should definitely check this out.
 
 When I was in college, I missed a lot of opportunities like hackathons, conferences, internships, workshops and many global events due to lack of awareness. I don't want the emerging developers to suffer the same as me. Hence, I and a bunch of other developers around have collected a list of resources for students. If you are in college, a college graduate, or just starting out as a developer, you should definitely check it out!
-
-![Image](res/a2z.png)
-
-*Image credits: Google*
 
 ## Table of Contents :clipboard:
 
